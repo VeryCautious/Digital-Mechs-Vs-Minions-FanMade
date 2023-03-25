@@ -1,0 +1,29 @@
+<Model globalCoordinateSystem="+proj=geocent +ellps=WGS84 +no_defs" globalCoordinateSystemWkt=""
+   globalCoordinateSystemName="local:1 - Euclidean" exportCoordinateSystemType="0">
+  <transformToModel>434.974349964435 -7.52664370676646e-06 357.541104669909 -0.668267951523132 357.541128761922 8.94142339897017e-07 -434.974337583064 -0.190837584757941 5.4381518529182e-06 563.061583184961 5.47912225101754e-06 0.618942775311562 0 0 0 1</transformToModel>
+  <Header magic="5786959" version="1"/>
+</Model>
+<ModelExport exportBinary="1" exportInfoFile="1" exportVertices="1" exportVertexColors="2"
+   exportVertexNormals="0" exportTriangles="1" exportTriangleStrips="0"
+   meshColor="4294967295" tileType="0" exportTextureAlpha="0" exportToOneTexture="0"
+   embedTextures="0" shrinkTextures="0" oneTextureMaxSide="8192" oneTextureUsePow2TexSide="1"
+   exportCoordinateSystemType="0" settingsAnchor="0 0 0" settingsRotation="-90 -90 0"
+   settingsScalex="1" settingsScaley="1" settingsScalez="1" normalSpace="2"
+   normalRange="0" normalFlip="0 0 0" formatAndVersionUID="obj 000 "
+   exportModelByParts="0" exportRandomPartColor="0" exportCameras="0"
+   exportCamerasAsModelPart="0" exportMaterials="0" numberAsciiFormatting="5"
+   authorComment="" exportedLayerCount="2">
+  <Header magic="5786949" version="5"/>
+  <Layer0 type="1" textureLayerIndex="0" textureWicContainerFormat="{1B7CFAF4-713F-473C-BBCD-6137425FAEAF}"
+     textureWicPixelFormat="{6FDDC324-4E03-4BFE-B185-3D77768DC90F}" textureExtension="png"/>
+  <Layer1 type="2" textureLayerIndex="0" textureWicContainerFormat="{1B7CFAF4-713F-473C-BBCD-6137425FAEAF}"
+     textureWicPixelFormat="{6FDDC324-4E03-4BFE-B185-3D77768DC90F}" textureExtension="png"/>
+</ModelExport>
+<CalibrationExportSettings undistortImagesWicFormat="{1B7CFAF4-713F-473C-BBCD-6137425FAEAF}"
+   undistortImagesWicPixlFormat="{6FDDC324-4E03-4BFE-B185-3D77768DC90F}"
+   undistortDownscaleFactor="0" undistortNamingConvention="0" undistFitMode="0"
+   undistResMode="0" undistPrincipalMode="0" undistCutOut="0" undistMaxPixels="0"
+   undistBackColor="0" undistortCustomWidth="0" undistortCustomHeight="0"
+   undistortCalibration="0" undistortImagesExtension="png" undistortImageNameSuffix=""
+   undistortImageLayerType="0" exportUndistorted="0" exportImages="0"
+   exportDisabled="0"/>
